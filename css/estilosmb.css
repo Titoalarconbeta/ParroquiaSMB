@@ -58,7 +58,7 @@ ul {
     margin: 0;
     padding: 0.5px;
     overflow: hidden;
-    background-color: transparent;
+    background-color: #333;
 }
 
 li {
@@ -74,7 +74,7 @@ li a {
 }
 
 li a:hover {
-    background-color:lightskyblue;
+    background-color:black;
 
 }
 /*Buenos aires ciudad*/
